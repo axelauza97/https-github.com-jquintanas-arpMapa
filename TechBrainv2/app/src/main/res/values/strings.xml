@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tech Brain v2</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu_2">menu_2</string>
+    <string name="title_activity_menu_3">menu_3</string>
+</resources>
